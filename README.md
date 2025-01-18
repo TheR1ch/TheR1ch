@@ -16,102 +16,53 @@
   </p>
 </p>
 <p>
-    <!--   📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-      <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-      <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    </p> -->
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
+# Привет! 👋 Добро пожаловать на мой профиль!
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
-</p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
+Я **Backend-разработчик**, увлечён созданием полезных инструментов и изучением новых технологий. 🌟  
+Люблю экспериментировать с кодом и создавать проекты, которые работают быстро и эффективно.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+---
 
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
+## 🛠️ Мой стек технологий:
+- 🌟 **Языки программирования**:
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ⚙️ **Фреймворки и библиотеки**:
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ☁️ **Инструменты**:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C714%20hrs%2019%20mins-blue)
+## 🛠️ Чем я занимаюсь?
+- 🚀 Разрабатываю всякие системы и механики, без говно кода)!
+- 🎮 Создаю мини-игры для Telegram и другие увлекательные проекты.
+- 💡 Постоянно учусь и ищу новые интересные идеи.
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
+## 🌍 Найди меня в интернете:
+- [Мой Telegram](https://t.me/fdsaqwertyu1) — здесь можно задать вопрос или обсудить проект.
+- [Discord](https://discordapp.com/users/852845189726208060) — для профессионального общения.
 
-**🐱 My GitHub Data** 
+## Мои топ языков
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=3ILou-ANANIMUS&layout=compact&theme=radical)
 
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                2655 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-🌆 Daytime                16763 commits       ████████████░░░░░░░░░░░░░   48.66 % 
-🌃 Evening                12260 commits       █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌙 Night                  2768 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-```
-📅 **I'm Most Productive on Wednesday** 
+## 📊 Моя статистика на GitHub:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=3ILou-ANANIMUS&show_icons=true&theme=radical)
 
-```text
-Monday                   5743 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  5984 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Wednesday                7269 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Thursday                 5588 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   4677 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 2544 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   2641 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
+---
 
+## 🎯 Цели на ближайшее будущее
+- 🎨 Создать ещё более крутую страницу для своих проектов.
+- 🐧 Начать работу над собственным мини-операционной системой.
+- 🔍 Улучшить знания в области кибербезопасности и DevOps.
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
+Спасибо, что заглянул(-а)! 🙌 Буду рад поработать над крутыми проектами вместе!
 
 
 
