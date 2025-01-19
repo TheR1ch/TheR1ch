@@ -40,7 +40,7 @@
 ---
 
 ## 📊 Моя статистика на GitHub:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=3ILou-ANANIMUS&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=TheR1ch&show_icons=true&theme=radical)
 
 ---
 
